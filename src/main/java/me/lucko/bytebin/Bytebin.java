@@ -22,7 +22,7 @@
  *  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  *  SOFTWARE.
  */
-
+// .
 package me.lucko.bytebin;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
